@@ -37,3 +37,6 @@ it, which provides their customers with an automated system for the identificati
 other disasters.
 ## Demo Flight Video
 ![](https://github.com/telelabchd/finalrelease-uav-telelab-meity/blob/main/ezgif.com-gif-maker.gif)
+
+## Demo Social Distancing
+![](https://github.com/telelabchd/finalrelease-uav-telelab-meity/blob/main/sample%20distancing.gif)
