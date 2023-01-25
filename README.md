@@ -35,3 +35,5 @@ security from 4G/LTE.
 4. Drone manufacturing companies can create their own cloud server and integrate our deep learning model with
 it, which provides their customers with an automated system for the identification of fight scenes, fires and
 other disasters.
+## Demo Flight Video
+![](https://github.com/telelabchd/finalrelease-uav-telelab-meity/blob/main/ezgif.com-gif-maker.gif)
