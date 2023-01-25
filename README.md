@@ -40,3 +40,6 @@ other disasters.
 
 ## Demo Social Distancing
 ![](https://github.com/telelabchd/finalrelease-uav-telelab-meity/blob/main/sample%20distancing.gif)
+
+## Demo video various applications
+![](https://github.com/telelabchd/finalrelease-uav-telelab-meity/blob/main/ezgif.com-gif-maker%20(1)%20(2).gif)
